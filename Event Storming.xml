@@ -63,11 +63,25 @@
     "title": "Opportunity"
   },
   {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;fontColor=#000099;strokeColor=#000099;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Vote"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#eae847;rotation=90;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"523\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 523,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Vetical Boundary"
+  },
+  {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#eae847;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"523\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 523,
     "h": 60,
     "aspect": "fixed",
-    "title": "Boundary"
+    "title": "Horizontal Boundary"
   },
   {
     "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Bounded Context\" style=\"swimlane;whiteSpace=wrap;html=1;strokeColor=none;swimlaneLine=0;fillColor=#F5F5F5;gradientColor=none;swimlaneFillColor=#f9f9f9;fontStyle=1;fontColor=#4D4D4D;glass=0;shadow=0;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"634\" height=\"492\" as=\"geometry\"&gt;&lt;mxRectangle x=\"488\" y=\"-400\" width=\"130\" height=\"26\" as=\"alternateBounds\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
@@ -75,12 +89,5 @@
     "h": 492,
     "aspect": "fixed",
     "title": "Bounded Context"
-  },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=classic;html=1;rounded=0;fontColor=#000099;strokeColor=#000099;strokeWidth=6;sketch=1;curveFitting=1;jiggle=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"50\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"50\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 50,
-    "h": 50,
-    "aspect": "fixed",
-    "title": "Vote"
   }
 ]</mxlibrary>

@@ -4,7 +4,7 @@ This project provides a template for creating Event Storming diagrams on [Diagra
 
 ## About Event Storming
 
-Event Storming is a rapid, intensive, and group-oriented modeling technique that promotes domain understanding. It's a collective learning and exploration technique that can be used at different stages of software development. For more information, please check [this link](https://www.eventstorming.com/).
+Event Storming is a rapid, intensive, and group-oriented modeling technique that promotes domain understanding. It's a collective learning and exploration technique that can be used at different stages of software development. For more information, please check [the oficial site](https://www.eventstorming.com/) and this fantastic repository, [Awesome EventStorming](https://github.com/mariuszgil/awesome-eventstorming).
 
 ## How to Use
 

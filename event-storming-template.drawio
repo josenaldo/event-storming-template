@@ -9,7 +9,7 @@
             <mxRectangle x="488" y="-400" width="130" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fkfnJ6flHeoksJz7uv-d-22" value="Externam System" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFB3C5;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="fkfnJ6flHeoksJz7uv-d-41">
+        <mxCell id="fkfnJ6flHeoksJz7uv-d-22" value="External System" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFB3C5;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="fkfnJ6flHeoksJz7uv-d-41">
           <mxGeometry x="414" y="298" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fkfnJ6flHeoksJz7uv-d-23" value="Event" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FEAE57;strokeColor=none;fontSize=16;fontStyle=0;rotation=0;shadow=1;" vertex="1" parent="fkfnJ6flHeoksJz7uv-d-41">
